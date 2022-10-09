@@ -8,14 +8,13 @@
 	},
 	"dependencies": {
 		"express": "^4.17.1",
-		"helmet": "^3.21.3"
+		"helmet": "^3.23.3"
 	},
 	"keywords": [
 		"node",
 		"hyperdev",
 		"express",
-		"freecodecamp",
-		"helmet"
+		"freecodecamp"
 	],
 	"license": "MIT",
 	"devDependencies": {
